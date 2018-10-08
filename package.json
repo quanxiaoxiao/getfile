@@ -1,0 +1,15 @@
+{
+  "name": "getfile",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": {
+    "getfile": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
